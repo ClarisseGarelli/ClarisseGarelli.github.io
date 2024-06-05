@@ -1,4 +1,5 @@
 // Message de bienvenu personnnalisé
+alert('Bonjour ! Ce site concerne le célèbre jeu vidéo Genshin Impact ! Sorti en 2021, le jeu dispose d’un environnement de monde ouvert de style animé et d’un système de combat basé sur l’action utilisant la magie élémentaire et le changement de personnage. ');
 
 let myImage = document.querySelector('img');
 
